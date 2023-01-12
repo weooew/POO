@@ -1,6 +1,6 @@
 # POO
 ## [Princípio básico: classe, atributos, métodos, obj.]()
-## [Construtores e destrutores, obs: initializer lists, default)()
+## [Construtores e destrutores]()
 ## [Public vs Privated vs Protected]()
 ## [Encapsulation]()
 ## [Vetores de objetos]()
@@ -8,7 +8,10 @@
 ## [How to divide files]()
 ## [Const]()
 ## [Friend functions and classes]()
-## [Nested class]()nested class can access private members of Enclosing class
+## [Nested class]()
+
+nested class can access private members of Enclosing class
+
 ## [Timing, ]()
 ## [Operator overloding]()
 ## [Objects relationships]()
